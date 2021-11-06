@@ -1,0 +1,20 @@
+1 burger coke frenchfries
+2 towel detergent earings
+3 bracelets rings earings
+4 frenchfries coke flashlight
+5 batteries flashlight
+6 rings bracelets
+7 detergent towel burger coke
+8 flashlight frenchfries coke batteries
+9 bracelets rings earings batteries
+10 detergent towel frenchfries coke burger
+11 batteries flashlight towel
+12 coke frenchfries batteries
+13 coke rings bracelets earings
+14 earings detergent towel
+15 burger frenchfries
+16 flashlight batteries earings rings
+17 coke burger
+18 frenchfries burger coke towel detergent
+19 rings bracelets towel
+20 flashlight batteries burger coke

@@ -1,0 +1,10 @@
+1 flashlight
+2 batteries
+3 towel
+4 detergent
+5 rings
+6 earings
+7 bracelets
+8 frenchfries
+9 coke
+10 burger

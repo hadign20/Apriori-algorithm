@@ -1,0 +1,20 @@
+100 burger frenchfries
+200 towel detergent
+300 rings earings batteries
+400 flashlight batteries coke
+500 towel coke frenchfries burger detergent
+600 earings bracelets rings
+700 towel detergent frenchfries coke
+800 towel batteries flashlight detergent
+900 rings bracelets
+1000 detergent coke frenchfries towel
+1100 burger bracelets frenchfries coke
+1200 towel rings earings detergent
+1300 detergent bracelets earings burger
+1400 towel flashlight batteries
+1500 coke frenchfries burger
+1600 flashlight towel detergent batteries
+1700 burger frenchfries coke towel detergent rings bracelets earings
+1800 towel detergent
+1900 coke bracelets earings burger
+2000 batteries flashlight coke burger frenchfries
